@@ -37,7 +37,8 @@ public class DigitalLockAnalyzer {
 			n1=n1/10;
 			
 		}
-		//System.out.println(Arrays.toString(a));
+		System.out.println("Tranformed digit sequence:");
+		System.out.println(Arrays.toString(a));
 		
 		int sum=0;
 		boolean flag=false;
